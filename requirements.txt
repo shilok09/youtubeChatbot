@@ -1,0 +1,36 @@
+# FastAPI and Server
+fastapi==0.104.1
+uvicorn==0.24.0
+python-dotenv==1.0.0
+
+# LangChain and AI/ML
+langchain==0.1.0
+langchain-core==0.1.0
+langchain-community==0.0.10
+langchain-huggingface==0.0.6
+
+# GitHub Inference API
+azure-ai-inference==1.0.0b9
+azure-core==1.35.0
+
+# YouTube Transcript API
+youtube-transcript-api==0.6.1
+
+# Vector Database
+faiss-cpu==1.11.0
+
+# Data Processing
+numpy==1.24.3
+pydantic==2.5.0
+
+# HTTP Requests
+requests==2.31.0
+httpx==0.28.1
+
+# Text Processing
+beautifulsoup4==4.13.4
+lxml==4.9.3
+
+# Development and Testing (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1 
